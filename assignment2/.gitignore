@@ -1,0 +1,5 @@
+*.swp
+*.pyc
+.env/*
+.env3/*
+.env35/*
